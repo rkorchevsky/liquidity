@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <properties>
-        <com.squareup.retrofit2.version>2.4.0</com.squareup.retrofit2.version>
+        <com.squareup.retrofit2.version>2.9.0</com.squareup.retrofit2.version>
         <maven.compiler.source>10</maven.compiler.source>
         <maven.compiler.target>10</maven.compiler.target>
         <jackson.version>2.9.5</jackson.version>
